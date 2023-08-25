@@ -1,4 +1,7 @@
-# Setting up Project 
+The Frontend dashboard repo to serve this backend service is here: [`Frontend-Dashbard`](https://github.com/MoazIrfan/Frontend-NestJS-Authentication-Login-Signup)
+
+
+## Setting up Project 
 Open PostgreSQL command line interface and run: 
 ```
 CREATE DATABASE nestjs;
